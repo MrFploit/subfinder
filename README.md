@@ -4,7 +4,7 @@
 # Fa
 <b>برای پیدا کردن ساب دامین های سایت ها میتوانید از این ابزار استفاده کنید</b>
 # En
-<b>You can use this tool to find subdomains of sites.<b/>
+<b>You can use this tool to find subdomains of sites.<b/> <br />
 <img src="subfinder.png" />
 <br />
 
@@ -19,7 +19,7 @@ apt install git python3 -y <br />
 <pre><code>
 git clone https://github.com/it4min/subfinder <br />
 cd subfinder <br />
-pip3 install -r requirement.txt
+pip3 install requests <br />
 python3 subfinder.py
 </code></pre>
 
