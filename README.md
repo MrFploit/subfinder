@@ -1,10 +1,10 @@
 # subfinder
-Sub Domain Finder
+<b>Sub Domain Finder<b/>
 
 # Fa
 <b>برای پیدا کردن ساب دامین های سایت ها میتوانید از این ابزار استفاده کنید</b>
 # En
-You can use this tool to find subdomains of sites.
+<b>You can use this tool to find subdomains of sites.<b/>
 <img src="subfinder.png" />
 <br />
 
